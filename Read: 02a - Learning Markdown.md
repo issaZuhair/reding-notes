@@ -91,7 +91,7 @@ function fancyAlert(arg) {
 
 
 since your git hub file are a part of github repository you can maintain them using the same tools you use on github and when you are ready to publish cahnges just merge them
- 
+
  
  
  #### the beauty of it is that you dont have to memorize the markdown, simply go to [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) to see all of them
